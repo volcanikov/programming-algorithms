@@ -1,0 +1,4 @@
+- Kadane Algo
+
+prob : to find max subarray sum
+soln : local and global max, local max keeps adding subarray, if sum is more than global then store in global max and if sum is less than zero then make it zero.
